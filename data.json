@@ -1,0 +1,72 @@
+[
+  {
+    "battery_capacity": 100,
+    "model": "Middleweight",
+    "serial_number": "A000001",
+    "state": "LOADED",
+    "weight_limit": 300
+  },
+  {
+    "battery_capacity": 90,
+    "model": "Cruiserweight",
+    "serial_number": "A000002",
+    "state": "IDLE",
+    "weight_limit": 500
+  },
+  {
+    "battery_capacity": 34,
+    "model": "Cruiserweight",
+    "serial_number": "A000003",
+    "state": "DELIVERED",
+    "weight_limit": 250
+  },
+  {
+    "battery_capacity": 15,
+    "model": "Lightweight",
+    "serial_number": "A000004",
+    "state": "RETURNING",
+    "weight_limit": 310
+  },
+  {
+    "battery_capacity": 70,
+    "model": "Heavyweight",
+    "serial_number": "A000005",
+    "state": "IDLE",
+    "weight_limit": 290
+  },
+  {
+    "battery_capacity": 56,
+    "model": "Heavyweight",
+    "serial_number": "A000006",
+    "state": "IDLE",
+    "weight_limit": 290
+  },
+  {
+    "battery_capacity": 84,
+    "model": "Heavyweight",
+    "serial_number": "A000007",
+    "state": "IDLE",
+    "weight_limit": 290
+  },
+  {
+    "battery_capacity": 40,
+    "model": "Heavyweight",
+    "serial_number": "A000008",
+    "state": "IDLE",
+    "weight_limit": 290
+  },
+  {
+    "battery_capacity": 34,
+    "model": "Heavyweight",
+    "serial_number": "A000009",
+    "state": "IDLE",
+    "weight_limit": 220
+  },
+  {
+    "battery_capacity": 55,
+    "model": "Heavyweight",
+    "serial_number": "A000010",
+    "state": "IDLE",
+    "weight_limit": 192
+  }
+]
