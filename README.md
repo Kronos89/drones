@@ -44,3 +44,6 @@ API REST Python Sqlite3 Flask and Json
 
 /battery/<serial_number> by GET for check drone battery level for a given drone:
 >http://localhost:5000/battery/A000001
+
+
+> They find the battery state every 1 minute and saves to log_battery.txt
